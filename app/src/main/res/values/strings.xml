@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Evio Gimble</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_clear_list">Clear list</string>
+    <string name="todo">TODO</string>
+</resources>
