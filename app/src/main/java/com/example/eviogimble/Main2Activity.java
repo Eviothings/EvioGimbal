@@ -1,3 +1,6 @@
+/* 
+1st screen
+*/
 package com.example.eviogimble;
 
 import androidx.appcompat.app.AppCompatActivity;

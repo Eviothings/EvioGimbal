@@ -16,6 +16,7 @@ import java.util.ArrayList;
 
 import sample.android.gimbal.com.pleasepermit.R;
 
+/* In this expandable list we are creating a lsit for number of beacon which are on sight and showing their property*/
 public class ExpandableListAdapterBeacons extends BaseExpandableListAdapter {
 
     public ArrayList<BeaconObject> tempChild;

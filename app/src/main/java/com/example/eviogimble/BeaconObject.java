@@ -10,7 +10,7 @@ import org.json.JSONObject;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-
+/* In this file we have created the beacon object and created a json array for our beacon properties*/
 public class BeaconObject {
     private String beaconType;
 

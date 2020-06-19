@@ -1,3 +1,7 @@
+/* So as to work with the beacon we require the location and bluetooth permission, below code is standard java code for android to 
+provide the location access.
+*/
+
 package com.example.eviogimble;
 
 import android.Manifest;
